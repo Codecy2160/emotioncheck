@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="tone">
+    <file>tone.png</file>
+  </qresource>
+</RCC>
